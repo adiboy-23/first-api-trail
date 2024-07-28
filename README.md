@@ -1,3 +1,3 @@
 ## SIMPLE API TRAIL 
 
-- Append  ``` index.js ```   to mkae your life easier .
+- Append  ``` index.js ```   to make your life easier .
