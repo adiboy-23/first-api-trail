@@ -1,0 +1,16 @@
+{
+  "name": "first-api",
+  "version": "1.0.0",
+  "description": "simple api with a few million users",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js" 
+  },
+  "author": "Aditya Kadian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.0"
+  }
+}
